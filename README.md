@@ -1,0 +1,1 @@
+"# joomlatemplate_skeleton" 
